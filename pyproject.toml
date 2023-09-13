@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "your_project_name"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "~3.11"
 black = "^23.9.1"
 
 
